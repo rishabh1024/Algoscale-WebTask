@@ -1,2 +1,2 @@
 # Algoscale-WebTask
-Basic webpage with 
+Basic webpage with login functionality and user database.
